@@ -20,9 +20,9 @@ Gibt es auch andere Gründe?
 
 > Nein.
 
-Haben sie sich kulturell an die Schweiz angepasst? Befolgen sie zum Beispiel schweizer Bräuche oder feiern sie schweizer Feiertage?
+Haben sie sich kulturell an die Schweiz angepasst? Befolgen sie zum Beispiel Schweizer Bräuche oder feiern sie Schweizer Feiertage?
 
-> Ja sicher, ich feier auch schweizer Feiertage.
+> Ja sicher, ich feier auch Schweizer Feiertage.
 
 Haben sie aber auch ihre brasilianische Kultur behalten?
 
@@ -30,4 +30,4 @@ Haben sie aber auch ihre brasilianische Kultur behalten?
 
 Und wie genau haben sie diese behalten? Also welche Dinge tun sie dafür?
 
->
+> Ich treffe immer Freunde, spreche mit ihnen brasilianisch, wir feiern oft zusammen am Wochenende und machen brasilianische Spezialitäten zum Genus.
