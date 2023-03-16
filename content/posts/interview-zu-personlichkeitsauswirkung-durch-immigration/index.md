@@ -40,6 +40,6 @@ Gehen sie in dem Fall auch oft nach Brasilien?
 
 > Ja jedes Jahr gehe ich dahin in die Ferien und besuche meine Familie.
 
-Zur letzten Frage wenn sie zurück nach Brasilien könnten würden Sie gehen?
+Wenn sie zurück nach Brasilien könnten würden Sie gehen?
 
->
+> Ja gerne. Vielleicht nicht jetzt, weil ich eine Tochter habe, die mich braucht aber vielleicht in 6 Jahren oder mehr will ich zurück nach Brasilien
