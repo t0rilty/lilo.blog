@@ -4,10 +4,6 @@ date = "2023-03-16"
 draft = true
 pinned = false
 +++
-Hallo und Willkommen zu diesem Interview. Sollte ich Sie duzen oder siezen?
-
-> Spielt keine Rolle. So ist gut.
-
 Als erste Frage: Seit wann leben sie in der Schweiz?
 
 > Ich lebe hier seit 2010.
@@ -46,4 +42,6 @@ Wenn sie zurück nach Brasilien könnten würden Sie gehen?
 
 Was gefällt ihnen an der Schweiz und was an Brasilien?
 
-> Hier in der Schweiz gefällt mir die Sicherheit, denn es ist wichtig ein gutes und sicheres Leben zu haben, aber in Brasilien ist das ein bisschen komplizierter. Die Schweizer Kultur ist auch schön.
+> Hier in der Schweiz gefällt mir die Sicherheit, denn es ist wichtig ein gutes und sicheres Leben führen zu können und in Brasilien ist das ein bisschen komplizierter. Ich finde auch, dass die Schweizer Kultur schön ist. In Brasilien gefällt mir, dass die Leute offener sind als Schweizer. Das ist auch ein Grund, warum der Empfang in der Schweiz für mich sehr schwierig war, eben weil Schweizer viel weniger offen und sozial sind als Brasilianer aber jetzt habe ich mich daran gewohnt.
+
+Als letzte Frage
