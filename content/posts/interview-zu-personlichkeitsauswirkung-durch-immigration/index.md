@@ -24,10 +24,10 @@ Haben sie sich kulturell an die Schweiz angepasst? Befolgen sie zum Beispiel Sch
 
 > Ja sicher, ich feier auch Schweizer Feiertage.
 
-Haben sie aber auch ihre brasilianische Kultur behalten?
+Haben sie aber auch ihre brasilianische Kultur behalten? Wenn ja, wie genau haben sie diese behalten? Also welche Dinge tun sie dafür?
 
-> Ja.
+> Ich treffe immer Freunde und spreche mit ihnen brasilianisch. Wir feiern oft zusammen am Wochenende und machen brasilianische Spezialitäten zum Genus.
 
-Und wie genau haben sie diese behalten? Also welche Dinge tun sie dafür?
+Hatte die Umstellung eine Auswirkung auf ihre Persönlichkeit?
 
-> Ich treffe immer Freunde, spreche mit ihnen brasilianisch, wir feiern oft zusammen am Wochenende und machen brasilianische Spezialitäten zum Genus.
+> Ja ich habe mich verändert. Zum Beispiel sind wir in Brasilien nicht pünktlich, aber in der Schweiz muss man bei einem Termin pünktlich sein und das ist eine Sache die sich verändert hat.
