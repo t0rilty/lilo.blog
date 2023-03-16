@@ -31,3 +31,7 @@ Haben sie aber auch ihre brasilianische Kultur behalten? Wenn ja, wie genau habe
 Hatte die Umstellung eine Auswirkung auf ihre Persönlichkeit?
 
 > Ja ich habe mich verändert. Zum Beispiel sind wir in Brasilien nicht pünktlich, aber in der Schweiz muss man bei einem Termin pünktlich sein und das ist eine Sache die sich verändert hat.
+
+Sie haben bereits erwähnt, dass sie Familie in der Schweiz haben, aber haben sie auch Familie in Brasilien?
+
+> Ja ich habe auch Familie in Brasilien. Eine Tochter, Brüder, Enkel, generell meine Wurzeln sind in Brasilien und deswegen auch sehr viele Familienmitglieder.
