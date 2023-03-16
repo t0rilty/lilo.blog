@@ -34,4 +34,12 @@ Hatte die Umstellung eine Auswirkung auf ihre Persönlichkeit?
 
 Sie haben bereits erwähnt, dass sie Familie in der Schweiz haben, aber haben sie auch Familie in Brasilien?
 
-> Ja ich habe auch Familie in Brasilien. Eine Tochter, Brüder, Enkel, generell meine Wurzeln sind in Brasilien und deswegen auch sehr viele Familienmitglieder.
+> Ja ich habe auch Familie in Brasilien. Eine Tochter, Brüder, Enkel, generell sehr viele Familienmitglieder, weil meine Wurzeln in Brasilien liegen.
+
+Gehen sie in dem Fall auch oft nach Brasilien?
+
+> Ja jedes Jahr gehe ich dahin in die Ferien und besuche meine Familie.
+
+Zur letzten Frage wenn sie zurück nach Brasilien könnten würden Sie gehen?
+
+>
