@@ -42,4 +42,8 @@ Gehen sie in dem Fall auch oft nach Brasilien?
 
 Wenn sie zurück nach Brasilien könnten würden Sie gehen?
 
-> Ja gerne. Vielleicht nicht jetzt, weil ich eine Tochter habe, die mich braucht aber vielleicht in 6 Jahren oder mehr will ich zurück nach Brasilien
+> Ja gerne. Vielleicht nicht jetzt, weil ich eine Tochter habe, die mich braucht, aber vielleicht in 6 Jahren oder mehr, will ich gerne zurück nach Brasilien
+
+Was gefällt ihnen an der Schweiz und was an Brasilien?
+
+> Hier in der Schweiz gefällt mir die Sicherheit, denn es ist wichtig ein gutes und sicheres Leben zu haben, aber in Brasilien ist das ein bisschen komplizierter. Die Schweizer Kultur ist auch schön.
