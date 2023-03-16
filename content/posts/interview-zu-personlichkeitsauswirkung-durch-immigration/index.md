@@ -46,4 +46,6 @@ Was gefällt ihnen an der Schweiz und was an Brasilien?
 
 Sie haben ja einige brasilianische Kunden die zu ihrem Haarstudio kommen und auf einer der Spiegel steht *Bem Vindo* (Willkommen). Versuchen sie mit ihrem Haarstudio einen sicheren Ort für Brasilianer zu errichten? Quasi ihnen das Gefühl zu geben als wären sie in Brasilien?
 
-> Ja ich habe viel Kontakt mit Brasilianern aber auch mit anderen Personen aus anderen Kulturen und auch mit Schweizer aber die meisten meiner Kunden sind aus Brasilien und das macht mich auch stärker von Brasilianern umgeben zu sein
+> Ja ich habe viel Kontakt mit Brasilianern aber auch mit anderen Personen aus anderen Kulturen und auch mit Schweizer aber die meisten meiner Kunden sind aus Brasilien und das macht mich auch stärker von Brasilianern umgeben zu sein und mit dem kontakt mit ihnen und durch mitarbeit macht mich stärker motiviert mich hier zu leben und weiterzumachen
+
+Würden sie als Fazit sagen, dass die Immigration schon eine Auswirkung auf ihre Persönlichkeit hatte, aber nicht so stark dass sie halt ihre wurzeln so vergessen haben oder so
