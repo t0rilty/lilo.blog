@@ -44,4 +44,4 @@ Was gefällt ihnen an der Schweiz und was an Brasilien?
 
 > Hier in der Schweiz gefällt mir die Sicherheit, denn es ist wichtig ein gutes und sicheres Leben führen zu können und in Brasilien ist das ein bisschen komplizierter. Ich finde auch, dass die Schweizer Kultur schön ist. In Brasilien gefällt mir, dass die Leute offener sind als Schweizer. Das ist auch ein Grund, warum der Empfang in der Schweiz für mich sehr schwierig war, eben weil Schweizer viel weniger offen und sozial sind als Brasilianer aber jetzt habe ich mich daran gewohnt.
 
-Sie haben ja einige brasilianische Kunden die zu ihrem Haarstudio kommen, versuchen sie mit ihrem Haarstudio einen sicheren Ort für brasilianer zu errichten?
+Sie haben ja einige brasilianische Kunden die zu ihrem Haarstudio kommen und auf einer der Spiegel steht *Bem Vindo* (Willkommen). Versuchen sie mit ihrem Haarstudio einen sicheren Ort für brasilianer zu errichten? Quasi ihnen das Gefühl zu geben als wären sie in Brasilien?
