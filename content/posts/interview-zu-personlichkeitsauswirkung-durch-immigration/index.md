@@ -4,9 +4,9 @@ date = "2023-03-16"
 draft = true
 pinned = false
 +++
-Als erste Frage: Seit wann leben sie in der Schweiz?
+Victoria (Interviewer): Als erste Frage: Seit wann leben sie in der Schweiz?
 
-> Ich lebe hier seit 2010.
+> Maria Imhof: Ich lebe hier seit 2010.
 
 Als zweite Frage: Warum leben Sie in der Schweiz und nicht mehr in Brasilien?
 
