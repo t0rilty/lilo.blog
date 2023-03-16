@@ -50,4 +50,4 @@ Sie haben ja einige brasilianische Kunden die zu ihrem Haarstudio kommen und auf
 
 Würden sie als Fazit sagen, dass die Immigration schon eine Auswirkung auf ihre Persönlichkeit hatte, aber nicht so stark, dass sie ihre Wurzeln vergessen haben?
 
-> Die Immigration hatte definitiv keine starken Auswirkungen auf meine Persönlichkeit. Ich bin zwar hier in der Schweiz, aber mein Koffer ist noch mit meinen Wurzeln in Brasilien.
+> Die Immigration hatte definitiv keine starken Auswirkungen auf meine Persönlichkeit. Ich bin zwar noch hier in der Schweiz, aber mein Koffer ist noch mit meinen Wurzeln in Brasilien.
