@@ -8,6 +8,8 @@ pinned = false
 
 balbal
 
+![]()
+
 {{</box>}}
 
 Victoria (Interviewer): Als erste Frage: Seit wann leben sie in der Schweiz?
