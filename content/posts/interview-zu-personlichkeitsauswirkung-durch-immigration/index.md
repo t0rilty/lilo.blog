@@ -4,7 +4,11 @@ date = "2023-03-16"
 draft = true
 pinned = false
 +++
+{{<box>}}
 
+balbal
+
+{{</box>}}
 
 Victoria (Interviewer): Als erste Frage: Seit wann leben sie in der Schweiz?
 
