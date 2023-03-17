@@ -1,7 +1,7 @@
 +++
 title = "Interview zu Persönlichkeitsauswirkung durch Immigration"
 date = "2023-03-16"
-draft = true
+draft = false
 pinned = false
 +++
 {{<box>}}
