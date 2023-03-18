@@ -14,7 +14,7 @@ balbal
 
 Victoria (Interviewer): Als erste Frage: Seit wann leben sie in der Schweiz?
 
-> Maria Imhof: Ich lebe hier seit 2010.
+> Maria Imhof: Ich lebe seit 2010 hier.
 
 Als zweite Frage: Warum leben Sie in der Schweiz und nicht mehr in Brasilien?
 
