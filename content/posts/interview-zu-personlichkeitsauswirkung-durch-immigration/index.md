@@ -20,17 +20,15 @@ infos bout her this is maria blabla
 
 {{</box>}}
 
-Victoria (Interviewer): Als erste Frage: Seit wann leben sie in der Schweiz?
+**Victoria (Interviewer): Als erste Frage: Seit wann leben sie in der Schweiz?**
 
-> Maria Imhof: Ich lebe seit 2010 hier.
+> **Maria Imhof: Ich lebe seit 2010 hier.**
 
-Als zweite Frage: Warum leben Sie in der Schweiz und nicht mehr in Brasilien?
+**Warum leben Sie in der Schweiz und nicht mehr in Brasilien?**
 
-> Ich bin mit einem Schweizer verheiratet, deswegen und wegen Familie bin ich in der Schweiz angekommen.
+> **Ich bin mit einem Schweizer verheiratet, deswegen und wegen Familie bin ich in der Schweiz angekommen. Sonst gibt es keine andere Gründe.**
 
-Gibt es auch andere Gründe?
-
-> Nein.
+**das do bold make in text bput her and remove from interview cuz that makes more sense**
 
 Haben sie sich kulturell an die Schweiz angepasst? Befolgen sie zum Beispiel Schweizer Bräuche oder feiern sie Schweizer Feiertage?
 
