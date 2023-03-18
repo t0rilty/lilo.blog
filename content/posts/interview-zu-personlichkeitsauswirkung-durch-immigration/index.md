@@ -5,7 +5,7 @@ draft = false
 pinned = false
 image = "img_5505-copy-min-2.jpg"
 +++
-# Anpassung und Veränderung 
+# Anpassung und Veränderung ausgelöst durch eine unterschiedliche Kultur
 
 lead 2-3 sätze über thema? zusammenfassung ig?
 
