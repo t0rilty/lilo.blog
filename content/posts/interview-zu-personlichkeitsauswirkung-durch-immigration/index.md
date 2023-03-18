@@ -11,8 +11,6 @@ lead 2-3 sätze über thema? zusammenfassung ig?
 
 {{<box>}}
 
-
-
 ![](img_5507-copy-min.jpg)
 
 infos bout her this is maria blabla
@@ -29,9 +27,9 @@ infos bout her this is maria blabla
 
 **das do bold make in text bput her and remove from interview cuz that makes more sense**
 
-Haben sie sich kulturell an die Schweiz angepasst? Befolgen sie zum Beispiel Schweizer Bräuche oder feiern sie Schweizer Feiertage?
+Victoria Araujo: Haben sie sich kulturell an die Schweiz angepasst? Befolgen sie zum Beispiel Schweizer Bräuche oder feiern sie Schweizer Feiertage?
 
-> Ja sicher, ich feier auch Schweizer Feiertage.
+> Maria Imhof: Ja sicher, ich feier auch Schweizer Feiertage.
 
 Haben sie aber auch ihre brasilianische Kultur behalten? Wenn ja, wie genau haben sie diese behalten? Also welche Dinge tun sie dafür?
 
