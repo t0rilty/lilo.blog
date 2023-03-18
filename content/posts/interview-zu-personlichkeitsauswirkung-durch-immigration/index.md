@@ -6,9 +6,7 @@ pinned = false
 +++
 # blablatitle
 
-lead 2 3 sätze über thema? zusammenfassung ig?
-
-
+lead 2-3 sätze über thema? zusammenfassung ig?
 
 {{<box>}}
 
