@@ -8,7 +8,7 @@ pinned = false
 
 balbal
 
-![]()
+![](img_5507-copy-min.jpg)
 
 {{</box>}}
 
