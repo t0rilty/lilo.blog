@@ -3,6 +3,7 @@ title = "Interview zu Persönlichkeitsauswirkung durch Immigration"
 date = "2023-03-16"
 draft = false
 pinned = false
+image = "img_5505-copy-min-2.jpg"
 +++
 # blablatitle
 
