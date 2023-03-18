@@ -27,7 +27,7 @@ infos bout her this is maria blabla
 
 **das do bold make in text bput her and remove from interview cuz that makes more sense**
 
-Victoria Araujo: Haben sie sich kulturell an die Schweiz angepasst? Befolgen sie zum Beispiel Schweizer Bräuche oder feiern sie Schweizer Feiertage?
+**Victoria Araujo:** Haben sie sich kulturell an die Schweiz angepasst? Befolgen sie zum Beispiel Schweizer Bräuche oder feiern sie Schweizer Feiertage?
 
 > Maria Imhof: Ja sicher, ich feier auch Schweizer Feiertage.
 
