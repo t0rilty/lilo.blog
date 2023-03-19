@@ -27,11 +27,11 @@ Haben Sie aber auch ihre basilianische Kultur behalten? Wenn ja, wie genau haben
 
 Hatte die Umstellung eine Auswirkung auf ihre Persönlichkeit?
 
-> Ja ich habe mich verändert. Zum Beispiel sind wir in Brasilien nicht pünktlich, aber in der Schweiz muss man bei einem Termin pünktlich sein und das ist eine Sache die sich verändert hat.
+> Ja, ich habe mich verändert. Zum Beispiel sind wir in Brasilien nicht pünktlich, aber in der Schweiz muss man bei einem Termin pünktlich sein und das ist zum Beispiel eine Sache die sich bei mir verändert hat.
 
 Sie haben bereits erwähnt, dass Sie Familie in der Schweiz haben, aber haben Sie auch Familie in Brasilien?
 
-> Ja ich habe auch Familie in Brasilien. Eine Tochter, Brüder, Enkel, generell sehr viele Familienmitglieder, weil meine Wurzeln schliesslich in Brasilien liegen.
+> Ja, ich habe auch Familie in Brasilien. Eine Tochter, Brüder, Enkel, generell sehr viele Familienmitglieder, weil meine Wurzeln schliesslich in Brasilien liegen.
 
 Gehen Sie in dem Fall auch oft nach Brasilien?
 
