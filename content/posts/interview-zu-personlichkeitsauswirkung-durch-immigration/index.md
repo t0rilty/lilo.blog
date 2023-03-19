@@ -13,7 +13,7 @@ Als jemand, der selbst von einem anderen Land in die Schweiz immigriert ist, hat
 
 ![](img_5507-copy-min.jpg)
 
-Maria Imhof (52) ist in Brasilien geboren und lebt seit 2010 in der Schweiz. Sie kam in die Schweiz, weil sie einen schweizer Mann heiratete, um mit ihm in der Schweiz eine Familie zu gründen.
+Maria Imhof (52) ist in Brasilien geboren und lebt seit 2010 in der Schweiz. Sie kam in die Schweiz, weil sie einen Schweizer Mann heiratete, um mit ihm in der Schweiz eine Familie zu gründen.
 
 {{</box>}}
 
@@ -21,7 +21,7 @@ Maria Imhof (52) ist in Brasilien geboren und lebt seit 2010 in der Schweiz. Sie
 
 > Maria Imhof: Ja sicher, ich feier auch Schweizer Feiertage.
 
-Haben sie aber auch ihre brasilianische Kultur behalten? Wenn ja, wie genau haben sie diese behalten? Also welche Dinge tun sie dafür?
+Haben sie aber auch ihre basilianische Kultur behalten? Wenn ja, wie genau haben sie diese behalten? Also welche Dinge tun sie dafür?
 
 > Ich treffe immer Freunde und spreche mit ihnen brasilianisch. Wir feiern oft zusammen am Wochenende und machen brasilianische Spezialitäten zum Genus.
 
