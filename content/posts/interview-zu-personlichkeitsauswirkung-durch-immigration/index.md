@@ -1,5 +1,5 @@
 +++
-title = "Interview zu Persönlichkeitsauswirkung durch Immigration"
+title = "Interview zu Persönlichkeitsveränderung durch Immigration"
 date = "2023-03-16"
 draft = false
 pinned = false
