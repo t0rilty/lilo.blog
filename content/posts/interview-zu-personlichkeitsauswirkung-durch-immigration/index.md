@@ -23,7 +23,7 @@ Maria Imhof (52) ist in Brasilien geboren und lebt seit 2010 in der Schweiz. Sie
 
 Haben Sie aber auch ihre basilianische Kultur behalten? Wenn ja, wie genau haben Sie diese behalten? Also welche Dinge tun Sie dafür?
 
-> Ich treffe immer Freunde und spreche mit ihnen brasilianisch. Wir feiern oft zusammen am Wochenende und machen brasilianische Spezialitäten zum Genus.
+> Ich treffe immer Freunde und spreche mit ihnen brasilianisch. Wir feiern oft zusammen am Wochenende und machen brasilianische Spezialitäten für den Genus.
 
 Hatte die Umstellung eine Auswirkung auf ihre Persönlichkeit?
 
