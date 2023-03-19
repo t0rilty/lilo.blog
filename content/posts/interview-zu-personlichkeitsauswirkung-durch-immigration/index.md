@@ -13,7 +13,7 @@ lead 2-3 sätze über thema? zusammenfassung ig?
 
 ![](img_5507-copy-min.jpg)
 
-Maria Imhof (52) ist in Brasilien geboren und lebt seit 2010 in der Schweiz. Sie kam in die Schweiz, weil sie einen schweizer Mann heiratete 
+Maria Imhof (52) ist in Brasilien geboren und lebt seit 2010 in der Schweiz. Sie kam in die Schweiz, weil sie einen schweizer Mann heiratete, um mit ihm in der Schweiz eine Familie zu gründen.
 
 {{</box>}}
 
