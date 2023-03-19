@@ -45,9 +45,11 @@ Was gefällt ihnen an der Schweiz und was an Brasilien?
 
 > Hier in der Schweiz gefällt mir die Sicherheit, denn es ist wichtig ein gutes und sicheres Leben führen zu können und in Brasilien ist das ein bisschen komplizierter. Ich finde auch, dass die Schweizer Kultur schön ist. In Brasilien gefällt mir, dass die Leute offener sind als Schweizer. Das ist auch ein Grund, warum der Empfang in der Schweiz für mich sehr schwierig war, eben weil Schweizer viel weniger offen und sozial sind als Brasilianer aber jetzt habe ich mich daran gewohnt.
 
-Sie haben ja einige brasilianische Kunden die zu ihrem Haarstudio kommen und auf einer der Spiegel steht *Bem Vindo* (Willkommen). Versuchen Sie mit ihrem Haarstudio einen sicheren Ort für Brasilianer zu errichten? Quasi ihnen das Gefühl zu geben als wären sie in Brasilien?
+Sie haben ja einige brasilianische Kunden die zu ihrem Haarstudio kommen und auf einer der Spiegel steht *Bem Vindo*. Versuchen Sie mit ihrem Haarstudio einen sicheren Ort für Brasilianer zu errichten? Quasi ihnen das Gefühl zu geben als wären sie in Brasilien?
 
 ![](img_5504-copy.jpg)
+
+*,,Bem Vindo" bedeutet so viel wie ,,Willkommen" auf brasilianisch.*
 
 > Ja ich habe viel Kontakt mit Brasilianern aber auch mit anderen Personen aus anderen Kulturen und auch mit Schweizer aber die meisten meiner Kunden sind aus Brasilien und das macht mich auch stärker von Brasilianern umgeben zu sein und mit dem kontakt mit ihnen und durch mitarbeit macht mich stärker motiviert mich hier zu leben und weiterzumachen
 
