@@ -49,9 +49,7 @@ Sie haben ja einige brasilianische Kunden, die zu ihrem Haarsalon kommen und auf
 
 {{<box>}}
 
-![](img_5504-copy.jpg)
-
-*,,Bem Vindo" bedeutet so viel wie ,,Willkommen" auf brasilianisch.*
+![,,Bem Vindo" bedeutet so viel wie ,,Willkommen" auf brasilianisch.](img_5504-copy.jpg)
 
 {{</box>}}
 
