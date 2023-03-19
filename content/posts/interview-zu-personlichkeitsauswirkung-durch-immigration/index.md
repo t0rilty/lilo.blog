@@ -7,7 +7,7 @@ image = "img_5505-copy-min-2.jpg"
 +++
 # Anpassung und Veränderung, ausgelöst durch eine unterschiedliche Kultur
 
-Als jemand, der selbst von einem anderen Land in die Schweiz immigriert ist, hat es mich wundergenommen, ob durch das Kennenlernen zweier Kulturen, sich die Persönlichkeit eines Menschens verändern kann. So habe ich Maria Imhof dazu befragt, ob die schweizer Kultur bei ihr persönlich, für eine Veränderung ihrer Persönlichkeit geführt hat.
+Als jemand, der selbst von einem anderen Land in die Schweiz immigriert ist, hat es mich gewundert, ob durch das Kennenlernen zweier Kulturen, sich die Persönlichkeit eines Menschens verändern kann. So habe ich Maria Imhof dazu befragt, ob die schweizer Kultur bei ihr persönlich, für eine Veränderung ihrer Persönlichkeit geführt hat.
 
 {{<box>}}
 
