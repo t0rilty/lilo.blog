@@ -17,11 +17,11 @@ Maria Imhof (52) ist in Brasilien geboren und lebt seit 2010 in der Schweiz. Sie
 
 {{</box>}}
 
-**Victoria Araujo:** Haben sie sich, seit sie hergekommen sind, kulturell an die Schweiz angepasst? Befolgen sie zum Beispiel Schweizer Bräuche oder feiern sie Schweizer Feiertage?
+**Victoria Araujo:** Haben Sie sich, seit Sie hergekommen sind, kulturell an die Schweiz angepasst? Befolgen Sie zum Beispiel Schweizer Bräuche oder feiern Sie Schweizer Feiertage?
 
 > Maria Imhof: Ja sicher, ich feier auch Schweizer Feiertage.
 
-Haben sie aber auch ihre basilianische Kultur behalten? Wenn ja, wie genau haben sie diese behalten? Also welche Dinge tun sie dafür?
+Haben Sie aber auch ihre basilianische Kultur behalten? Wenn ja, wie genau haben Sie diese behalten? Also welche Dinge tun Sie dafür?
 
 > Ich treffe immer Freunde und spreche mit ihnen brasilianisch. Wir feiern oft zusammen am Wochenende und machen brasilianische Spezialitäten zum Genus.
 
@@ -29,15 +29,15 @@ Hatte die Umstellung eine Auswirkung auf ihre Persönlichkeit?
 
 > Ja ich habe mich verändert. Zum Beispiel sind wir in Brasilien nicht pünktlich, aber in der Schweiz muss man bei einem Termin pünktlich sein und das ist eine Sache die sich verändert hat.
 
-Sie haben bereits erwähnt, dass sie Familie in der Schweiz haben, aber haben sie auch Familie in Brasilien?
+Sie haben bereits erwähnt, dass sie Familie in der Schweiz haben, aber haben Sie auch Familie in Brasilien?
 
 > Ja ich habe auch Familie in Brasilien. Eine Tochter, Brüder, Enkel, generell sehr viele Familienmitglieder, weil meine Wurzeln schliesslich in Brasilien liegen.
 
-Gehen sie in dem Fall auch oft nach Brasilien?
+Gehen Sie in dem Fall auch oft nach Brasilien?
 
-> Ja jedes Jahr gehe ich dahin in die Ferien und besuche meine Familie.
+> Ja, jedes Jahr gehe ich nach Brasilien in die Ferien und besuche meine Familie.
 
-Wenn sie zurück nach Brasilien könnten würden Sie gehen?
+Wenn Sie zurück nach Brasilien könnten würden Sie gehen?
 
 > Ja gerne. Vielleicht nicht jetzt, weil ich eine Tochter habe, die mich braucht, aber vielleicht in 6 Jahren oder mehr, will ich gerne zurück nach Brasilien
 
