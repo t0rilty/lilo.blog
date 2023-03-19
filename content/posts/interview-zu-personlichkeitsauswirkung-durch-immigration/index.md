@@ -17,7 +17,7 @@ Maria Imhof (52) ist in Brasilien geboren und lebt seit 2010 in der Schweiz. Sie
 
 {{</box>}}
 
-**Victoria Araujo:** Haben sie sich kulturell an die Schweiz angepasst? Befolgen sie zum Beispiel Schweizer Bräuche oder feiern sie Schweizer Feiertage?
+**Victoria Araujo:** Haben sie sich, seit sie hergekommen sind, kulturell an die Schweiz angepasst? Befolgen sie zum Beispiel Schweizer Bräuche oder feiern sie Schweizer Feiertage?
 
 > Maria Imhof: Ja sicher, ich feier auch Schweizer Feiertage.
 
