@@ -55,8 +55,8 @@ Sie haben ja einige brasilianische Kunden die zu ihrem Haarsalon kommen und auf 
 
 {{</box>}}
 
-> Ja ich habe viel Kontakt mit Brasilianern aber auch mit anderen Personen aus anderen Kulturen und auch mit Schweizer aber die meisten meiner Kunden sind aus Brasilien und das macht mich auch stärker von Brasilianern umgeben zu sein und mit dem kontakt mit ihnen und durch mitarbeit macht mich stärker motiviert mich hier zu leben und weiterzumachen
+> Ja, ich habe viel Kontakt mit Brasilianern, aber auch mit anderen Personen aus anderen Kulturen und selbstverständlich auch mit Schweizer. Aber die meisten meiner Kunden sind aus Brasilien und es macht mich auch stärker von Brasilianern umgeben zu sein Der Kontakt mit ihnen und die Zusammenarbeit machen mich stärker und motivieren mich dazu hier zu leben und mit der Arbeit weiterzumachen.
 
-Würden sie als Fazit sagen, dass die Immigration schon eine Auswirkung auf ihre Persönlichkeit hatte, aber nicht so stark, dass sie ihre Wurzeln vergessen haben?
+Würden Sie als Fazit sagen, dass die Immigration schon eine Auswirkung auf ihre Persönlichkeit hatte, aber nicht so stark, dass Sie ihre Wurzeln vergessen haben?
 
 > Die Immigration hatte definitiv keine starken Auswirkungen auf meine Persönlichkeit. Ich bin zwar noch hier in der Schweiz, aber mein Koffer ist noch mit mir und meinen Wurzeln in Brasilien.
