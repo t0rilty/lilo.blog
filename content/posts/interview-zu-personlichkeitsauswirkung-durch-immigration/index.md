@@ -7,7 +7,7 @@ image = "img_5505-copy-min-2.jpg"
 +++
 # Anpassung und Veränderung, ausgelöst durch eine unterschiedliche Kultur
 
-lead 2-3 sätze über thema? zusammenfassung ig?
+Als jemand der selbst von einem anderen Land in die Schweiz immigriert ist, hat es mich wundergenommen 
 
 {{<box>}}
 
