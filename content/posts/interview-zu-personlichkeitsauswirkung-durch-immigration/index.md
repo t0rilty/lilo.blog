@@ -11,7 +11,7 @@ Als jemand, der selbst von einem anderen Land in die Schweiz immigriert ist, hat
 
 {{<box>}}
 
-![](img_5507-copy-min.jpg)
+![Maria Imhof (52) ist in Brasilien geboren und lebt seit 2010 in der Schweiz. Sie kam in die Schweiz, weil sie einen Schweizer Mann heiratete, um mit ihm in der Schweiz eine Familie zu gründen. Sie ist eine selbstständige Friseurin mit einem eigenen Haarsalon.](img_5507-copy-min.jpg)
 
 Maria Imhof (52) ist in Brasilien geboren und lebt seit 2010 in der Schweiz. Sie kam in die Schweiz, weil sie einen Schweizer Mann heiratete, um mit ihm in der Schweiz eine Familie zu gründen. Sie ist eine selbstständige Friseurin mit einem eigenen Haarsalon.
 
