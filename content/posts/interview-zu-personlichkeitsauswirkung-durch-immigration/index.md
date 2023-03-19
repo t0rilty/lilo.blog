@@ -9,11 +9,7 @@ image = "img_5505-copy-min-2.jpg"
 
 Als jemand, der selbst von einem anderen Land in die Schweiz immigriert ist, hat es mich gewundert, ob durch das Kennenlernen zweier Kulturen, sich die Persönlichkeit eines Menschens verändern kann. So habe ich Maria Imhof dazu befragt, ob die schweizer Kultur bei ihr persönlich, für eine Veränderung ihrer Persönlichkeit geführt hat.
 
-{{<box>}}
-
 ![Maria Imhof (52) ist in Brasilien geboren und lebt seit 2010 in der Schweiz. Sie kam in die Schweiz, weil sie einen Schweizer Mann heiratete, um mit ihm in der Schweiz eine Familie zu gründen. Sie ist eine selbstständige Friseurin mit einem eigenen Haarsalon.](img_5507-copy-min.jpg)
-
-{{</box>}}
 
 **Victoria Araujo:** Haben Sie sich, seit Sie hergekommen sind, kulturell an die Schweiz angepasst? Befolgen Sie zum Beispiel Schweizer Bräuche oder feiern Sie Schweizer Feiertage?
 
@@ -45,11 +41,7 @@ Was gefällt ihnen an der Schweiz und was an Brasilien?
 
 Sie haben ja einige brasilianische Kunden, die zu ihrem Haarsalon kommen und auf einer der Spiegel steht *Bem Vindo*. Versuchen Sie mit ihrem Haarstudio einen sicheren Ort für Brasilianer zu errichten? Quasi ihnen das Gefühl zu geben, als wären sie in Brasilien?
 
-{{<box>}}
-
 ![,,Bem Vindo" bedeutet so viel wie ,,Willkommen" auf brasilianisch.](img_5504-copy.jpg)
-
-{{</box>}}
 
 > Ja, ich habe viel Kontakt mit Brasilianern, aber auch mit anderen Personen aus anderen Kulturen und selbstverständlich auch mit Schweizer. Aber die meisten meiner Kunden sind aus Brasilien und es macht mich auch stärker von Brasilianern umgeben zu sein. Der Kontakt mit ihnen und die Zusammenarbeit, machen mich stärker und motivieren mich dazu hier zu leben und mit meiner Arbeit weiterzumachen.
 
