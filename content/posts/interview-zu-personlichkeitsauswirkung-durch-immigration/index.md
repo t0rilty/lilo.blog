@@ -13,7 +13,7 @@ Als jemand, der selbst von einem anderen Land in die Schweiz immigriert ist, hat
 
 ![](img_5507-copy-min.jpg)
 
-Maria Imhof (52) ist in Brasilien geboren und lebt seit 2010 in der Schweiz. Sie kam in die Schweiz, weil sie einen Schweizer Mann heiratete, um mit ihm in der Schweiz eine Familie zu gründen.
+Maria Imhof (52) ist in Brasilien geboren und lebt seit 2010 in der Schweiz. Sie kam in die Schweiz, weil sie einen Schweizer Mann heiratete, um mit ihm in der Schweiz eine Familie zu gründen. Sie ist eine selbstständige Friseurin mit einem eigenen Haarsalon.
 
 {{</box>}}
 
@@ -45,7 +45,7 @@ Was gefällt ihnen an der Schweiz und was an Brasilien?
 
 > Hier in der Schweiz gefällt mir die Sicherheit, denn es ist wichtig ein gutes und sicheres Leben führen zu können und in Brasilien ist das ein bisschen komplizierter. Ich finde auch, dass die Schweizer Kultur schön ist. In Brasilien gefällt mir, dass die Leute offener sind als Schweizer. Das ist auch ein Grund, warum der Empfang in der Schweiz für mich sehr schwierig war, eben weil Schweizer viel weniger offen und sozial sind als Brasilianer aber jetzt habe ich mich daran gewohnt.
 
-Sie haben ja einige brasilianische Kunden die zu ihrem Haarstudio kommen und auf einer der Spiegel steht *Bem Vindo*. Versuchen Sie mit ihrem Haarstudio einen sicheren Ort für Brasilianer zu errichten? Quasi ihnen das Gefühl zu geben als wären sie in Brasilien?
+Sie haben ja einige brasilianische Kunden die zu ihrem Haarsalon kommen und auf einer der Spiegel steht *Bem Vindo*. Versuchen Sie mit ihrem Haarstudio einen sicheren Ort für Brasilianer zu errichten? Quasi ihnen das Gefühl zu geben als wären sie in Brasilien?
 
 {{<box>}}
 
