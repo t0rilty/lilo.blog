@@ -9,7 +9,13 @@ image = "img_5505-copy-min-2.jpg"
 
 Als jemand, der selbst von einem anderen Land in die Schweiz immigriert ist, hat es mich gewundert, ob durch das Kennenlernen zweier Kulturen, sich die Persönlichkeit eines Menschens verändern kann. So habe ich Maria Imhof dazu befragt, ob die schweizer Kultur bei ihr persönlich, für eine Veränderung ihrer Persönlichkeit geführt hat.
 
-![Maria Imhof (52) ist in Brasilien geboren und lebt seit 2010 in der Schweiz. Sie kam in die Schweiz, weil sie einen Schweizer Mann heiratete, um mit ihm in der Schweiz eine Familie zu gründen. Sie ist eine selbstständige Friseurin mit einem eigenen Haarsalon.](img_5507-copy-min.jpg)
+![](img_5507-copy-min.jpg)
+
+{{<box>}}
+
+Maria Imhof (52) ist in Brasilien geboren und lebt seit 2010 in der Schweiz. Sie kam in die Schweiz, weil sie einen Schweizer Mann heiratete, um mit ihm in der Schweiz eine Familie zu gründen. Sie ist eine selbstständige Friseurin mit einem eigenen Haarsalon.
+
+{{</box>}}
 
 **Victoria Araujo:** Haben Sie sich, seit Sie hergekommen sind, kulturell an die Schweiz angepasst? Befolgen Sie zum Beispiel Schweizer Bräuche oder feiern Sie Schweizer Feiertage?
 
