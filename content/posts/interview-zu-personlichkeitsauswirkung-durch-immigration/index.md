@@ -13,19 +13,9 @@ lead 2-3 sätze über thema? zusammenfassung ig?
 
 ![](img_5507-copy-min.jpg)
 
-infos bout her this is maria blabla
+Maria Imhof (52) ist in Brasilien geboren und lebt seit 2010 in der Schweiz. Der Grund für ihren Umzug 
 
 {{</box>}}
-
-**Victoria (Interviewer): Als erste Frage: Seit wann leben sie in der Schweiz?**
-
-> **Maria Imhof: Ich lebe seit 2010 hier.**
-
-**Warum leben Sie in der Schweiz und nicht mehr in Brasilien?**
-
-> **Ich bin mit einem Schweizer verheiratet, deswegen und wegen Familie bin ich in der Schweiz angekommen. Sonst gibt es keine andere Gründe.**
-
-**das do bold make in text bput her and remove from interview cuz that makes more sense**
 
 **Victoria Araujo:** Haben sie sich kulturell an die Schweiz angepasst? Befolgen sie zum Beispiel Schweizer Bräuche oder feiern sie Schweizer Feiertage?
 
