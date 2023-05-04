@@ -9,9 +9,6 @@ Immigranten machen oft bekanntschaft mit der *Assimilation*, ein kultureler Anpa
 
 ![Maria Imhof (52) ist in Brasilien geboren und lebt seit 2010 in der Schweiz. Sie kam in die Schweiz, weil sie einen Schweizer Mann heiratete, um mit ihm in der Schweiz eine Familie zu gründen. Sie ist eine selbstständige Friseurin mit einem eigenen Haarsalon.](img_5505-copy-min-2.jpg)
 
-\
-bildunterschrift
-
 Angekommen an der Bushaltestelle *Aarburg, Stadtgarten* sieht man, sobald der Bus wegfährt, der Haarsalon: «Marias Coiffure». Beim Betreten des Ladens fallen als erstes die drei Frauen, die zusammen mitten in einem Gespräch sind, auf. Maria und ihre Kunden unterbrechen kurz ihr Gespräch, um freudestrahlend zu grüssen. Das besondere an ihnen? Sie sind brasilianische Immigranten.  
 
 **Verbindung zur Kultur**\
