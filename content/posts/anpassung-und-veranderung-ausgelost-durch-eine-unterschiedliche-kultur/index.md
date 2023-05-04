@@ -17,8 +17,4 @@ Angekommen an der Bushaltestelle *Aarburg, Stadtgarten* sieht man, sobald der 
 **Verbindung zur Kultur**\
 Auf das graue Sofa Platz nehmend und wartend bis Maria die Haare einer der Frauen fertig geschnitten hat, sehe ich mich in ihrem Laden um. Auf eines der Spiegel vor den Friseurstühlen steht *Willkommen* und auf das andere *Bem Vindo*. «Das bedeutet Willkommen auf Portugiesisch», beantwortet Maria die unausgesprochene Frage und setzt sich gegenüber auf das Sofa. Dann zeigt sie auf die zwei Frauen, die ihr eigenes Gespräch führen und verrät: «Ich habe viel Kontakt mit Brasilianern, die meisten meiner Kunden sind aus Brasilien und es macht mich auch stärker von Brasilianern umgeben zu sein». Maria hat ihre brasilianische Kultur sehr nahe behalten, respektiert aber auch die Schweizer Kultur, indem sie zum Beispiel Schweizer Feiertage feiert. Hierbei handelt es sich um eine *Integration*. Ein Anpassungsprozess, bei dem die Migrantin eine multikulturelle Identität erlebt, das heisst ihre eigenkulturelle Identität weitgehend erhalten bleibt, aber die neue Kultur um sich herum akzeptiert und toleriert wird.
 
-Maria berichtet dass sie
-
-Hatte die Umstellung eine Auswirkung auf ihre Persönlichkeit?
-
-> Ja, ich habe mich verändert. Zum Beispiel sind wir in Brasilien nicht pünktlich, aber in der Schweiz muss man bei einem Termin pünktlich sein und das ist zum Beispiel eine Sache die sich bei mir verändert hat.
+Maria berichtet dass sie sich verändert hat, seit sie in der Schweiz lebt. "Zum Beispiel sind wir in Brasilien nicht pünktlich, aber in der Schweiz muss man bei einem Termin pünktlich sein und das ist zum Beispiel eine Sache die sich bei mir verändert hat."
