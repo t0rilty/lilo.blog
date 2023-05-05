@@ -1,6 +1,6 @@
 +++
 title = "Anpassung und Veränderung, ausgelöst durch eine unterschiedliche Kultur"
-date = "2023-05-02"
+date = "2023-05-05"
 draft = false
 pinned = false
 image = "img_5505-copy-min-2.jpg"
