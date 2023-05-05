@@ -11,7 +11,7 @@ Eine Reportage von **Victoria Araujo**, Bern
 
 ![Marias Coiffure: der Haarsalon einer brasilianischen Immigrantin](img_5505-copy-min-2.jpg)
 
-Angekommen an der Bushaltestelle *Aarburg, Stadtgarten* sieht man, sobald der Bus wegfährt, der Haarsalon: «Marias Coiffure». Beim Betreten des Ladens fallen als erstes die drei Frauen, die zusammen mitten in einem Gespräch sind, auf. Maria und ihre Kunden unterbrechen kurz ihr Gespräch, um freudestrahlend zu grüssen. Das Besondere an ihnen? Sie sind brasilianische Immigranten.  
+Angekommen an der Bushaltestelle *Aarburg, Stadtgarten* sieht man, sobald der Bus wegfährt, der Haarsalon: «Marias Coiffure». Beim Betreten des Ladens fallen als erstes die drei Frauen, die zusammen mitten in einem Gespräch sind, auf. Maria und ihre Kunden unterbrechen kurz ihr Gespräch, um freudestrahlend zu grüssen. Das Besondere an ihnen? Sie sind brasilianische Immigrantinnen.  
 
 **Verbindung zu zwei Kulturen**\
 Auf das graue Sofa Platz nehmend und wartend, bis Maria die Haare einer der Frauen fertig geschnitten hat, sehe ich mich in ihrem Laden um. Auf einer der Spiegel vor den Friseurstühlen steht *Willkommen* und auf dem anderen *Bem Vindo*. «Das bedeutet Willkommen auf Portugiesisch», beantwortet Maria die unausgesprochene Frage und setzt sich gegenüber auf das Sofa. 
