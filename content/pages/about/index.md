@@ -8,4 +8,4 @@ description = ""
 
 ## Victoria Araujo
 
-toriaraujo9@gmail.com
+Dieser Blog ist für Schulprojekte und ich bin fr das girl auf dem Bild <333
