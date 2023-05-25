@@ -4,10 +4,8 @@ draft = false
 image = ""
 description = ""
 +++
-![](/img/default-author.jpg)
+![](b85e9f83090ad918c884d46e5bd1d874.jpg)
 
 ## Victoria Araujo
 
 toriaraujo9@gmail.com
-
-Here should be some info about me...
