@@ -4,6 +4,7 @@ date = "2023-05-31"
 draft = false
 pinned = false
 tags = ["poetryslam", "algebra"]
+image = "60f84bc6b48bffe1ea4b30b9239d5372.jpg"
 +++
 **Algebra**
 
