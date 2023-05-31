@@ -5,6 +5,8 @@ draft = false
 pinned = false
 tags = ["poetryslam", "algebra"]
 +++
+**Algebra**
+
 Können Sie sich noch daran erinnern, als Sie zum ersten Mal \
 von Buchstaben gehört haben?\
 Und sie noch nicht als Qual galten?\
