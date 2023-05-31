@@ -9,3 +9,5 @@ description = ""
 ## Victoria Araujo
 
 Dieser Blog ist für Schulprojekte und ich bin fr das girl auf dem Bild <333
+
+victoria.araujo@stud.muristalden.ch
