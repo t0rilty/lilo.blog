@@ -3,6 +3,7 @@ title = "Interview zu Persönlichkeitsveränderung durch Immigration"
 date = "2023-03-16"
 draft = false
 pinned = false
+tags = ["interview", "immigration"]
 image = "img_5505-copy-min-2.jpg"
 +++
 # Anpassung und Veränderung, ausgelöst durch eine unterschiedliche Kultur
