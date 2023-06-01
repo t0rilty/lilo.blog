@@ -13,4 +13,5 @@ Dafür habe ich das Lied [Kill Bill](https://www.youtube.com/watch?v=SQnc1QibapQ
 **Resultate**\
 Es fällt auf, dass die KI Stimme an manchen Stellen sehr robotisch klingt, vor allem weil sie den Ton nicht trifft. Mit anderen mir unbekanten AI Voice Generators kriegt man bessere, aber immer noch nicht perfekt generierte AI Covers hin. Wie zum Beispiel eines der Sängerin [Billie Eilisch](https://twitter.com/eilishdata/status/1653056316443709441?s=20) mit dem selben Lied.
 
-**Gefahren und Positive Aspekte**
+**Gefahren und Positive Aspekte**\
+An erster Stelle sind alle AI Voice Generators gefährlich, weil durch gute, weitentwickelte und akkurate Generators mit der Stimme einer anderen Person alle möglichen falschen Aussagen verbreitet werden können. So könnte man zum Beispiel einen weissen Künstler ein Lied mit dem N-Wort singen lassen, was für grosse Kontroversen führen könnte.
