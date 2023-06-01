@@ -7,4 +7,4 @@ tags = ["künstlicheintelligenz", "ki", "informatikprojekt"]
 +++
 Für mein Informatik Projekt habe ich mich etwas intensiver mit sogenannten AI Voice Generators auseinandergesetzt, genauer gesagt mit [musicfy.lol.](https://musicfy.lol) 
 
-Dafür habe ich das Lied [Kill Bill](https://www.youtube.com/watch?v=SQnc1QibapQ) von SZA ausgewählt und heruntergeladen. Danach habe ich die Audiodatei bei x-minus vom Instrumental herausgefiltert und wieder heruntergeladen. Diese neue Audiodatei dann in musicfy eingefügt, die Stimme vom Rapper Future ausgewählt und das Endprodukt erneut heruntergeladen.
+Dafür habe ich das Lied [Kill Bill](https://www.youtube.com/watch?v=SQnc1QibapQ) von SZA ausgewählt und heruntergeladen. Danach habe ich die Audiodatei bei x-minus vom Instrumental herausgefiltert und heruntergeladen. Diese neue Audiodatei dann in musicfy eingefügt, die Stimme vom Rapper Future ausgewählt und das Endprodukt heruntergeladen.
