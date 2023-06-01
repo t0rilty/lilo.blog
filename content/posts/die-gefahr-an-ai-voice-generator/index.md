@@ -11,4 +11,6 @@ Für mein Informatik Projekt habe ich mich etwas intensiver mit sogenannten AI V
 Dafür habe ich das Lied [Kill Bill](https://www.youtube.com/watch?v=SQnc1QibapQ) von SZA ausgewählt und heruntergeladen. Danach habe ich die Audiodatei bei x-minus vom Instrumental herausgefiltert und heruntergeladen. Diese neue Audiodatei dann in musicfy eingefügt, die Stimme vom Rapper Future ausgewählt und das Endprodukt heruntergeladen. 
 
 **Resultate**\
-Es fällt auf, dass die KI Stimme an manchen Stellen sehr robotisch klingt, vor allem weil sie den Ton nicht trifft.
+Es fällt auf, dass die KI Stimme an manchen Stellen sehr robotisch klingt, vor allem weil sie den Ton nicht trifft. Mit anderen mir unbekanten AI Voice Generators kriegt man bessere, aber immer noch nicht perfekt generierte AI Covers hin.
+
+**Gefahren und Positive Aspekte**
