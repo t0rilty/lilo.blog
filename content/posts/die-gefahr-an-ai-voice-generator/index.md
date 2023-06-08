@@ -1,7 +1,7 @@
 +++
 title = "Die Gefahr an AI Voice Generator"
 date = "2023-06-01"
-draft = true
+draft = false
 pinned = false
 tags = ["künstlicheintelligenz", "ki", "informatikprojekt"]
 image = "unknown.png"
