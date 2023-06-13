@@ -10,6 +10,22 @@ Immigrant*innen machen oft Bekanntschaft mit der* Assimilation*, ein kultureller
 
 Eine Reportage von **Victoria Araujo**, Bern
 
+{{<box>}}
+
+**Integration** 
+
+Während bei Integration die eigenkulturelle Identität weitgehend erhalten bleibt, wird sie bei Assimilation aufgegeben. Bei Integration streben Personen oder Gruppen nach Multikulturalität, bei der das eigene kulturelle Erbe in die Mehrheitsgesellschaft getragen wird. Dies erfordert natürlich auch eine Integrationsbereitschaft der dominanten Kultur, die einen wechselseitigen Austausch interkultureller Denk- und Verhaltensweisen ermöglicht. Berry (2005) unterscheidet drei Formen der Integration: aktive Akzeptanz der kulturellen Diversität in einer Gesellschaft, sozialstrukturelle Integration in das Beziehungsgeflecht einer Gesellschaft und sozialkulturelle Integration unter Rücksichtnahme auf kulturelle Unterschiede. 
+
+**Assimilation** 
+
+Bei Assimilation herrscht für Migranten ein höherer Anpassungsdruck an die Aufnahmekultur. Dies bringt eine Aufgabe oder Ablehnung der Eigenkultur mit sich. Durch die bewusste Übernahme von Sprache sowie Denk- und Verhaltensmustern des neuen kulturellen Systems wird die eigenkulturelle Identität nach und nach überlagert. Assimilation ist somit meist ein einseitiger Anpassungsprozess einer Minderheits- an die Mehrheitsgesellschaft. 
+
+**Segregation und Marginalisierung** 
+
+Herrscht hingegen eine ablehnende Haltung gegenüber der dominanten Kultur, liegt entweder Segregation oder Marginalisierung vor. Bei Segregation werden die eigenkulturellen Werte und Denkmuster bewusst erhalten ohne, dass Kontakt zur Mehrheitskultur hergestellt wird. Bei Marginalisierung werden bestehende kulturelle Identitäten aufgebrochen bei gleichzeitiger ablehnender Haltung zur Aufnahmekultur. Häufig ist damit ein Zustand kultureller Orientierungslosigkeit verbunden, der zu sozialer und lokaler Abgrenzung und Isolierung führt. Unter gewissen Bedingungen kann die Position der Marginalisierten allerdings auch konstruktiv eingesetzt werden. Gerade durch den Abstand zu kulturellen Referenzsystemen können situationsabhängige Realitäten entstehen und somit alte Normen hinterfragt und neue ethische Grundlagen geschaffen werden. So lässt sich das hohe Frustrationsniveau, das Marginalisierung meist für alle Beteiligten mit sich bringt, senken oder in neue Gestaltungsmöglichkeiten in Bezug auf Interkulturalität umwandeln
+
+{{</box>}}
+
 ![Marias Coiffure: der Haarsalon einer brasilianischen Immigrantin](img_5505-copy-min-2.jpg)
 
 Angekommen an der Bushaltestelle *Aarburg, Stadtgarten* sieht man, sobald der Bus wegfährt, der Haarsalon: «Marias Coiffure». Beim Betreten des Ladens fallen als erstes die drei Frauen, die zusammen mitten in einem Gespräch sind, auf. Maria und ihre Kunden unterbrechen kurz ihr Gespräch, um freudestrahlend zu grüssen. Das Besondere an ihnen? Sie sind brasilianische Immigrantinnen.  
@@ -27,19 +43,3 @@ Maria gibt zu, dass sie sich in gewisser Weise verändert hat, seit sie in de
 Die drei fallen mit Leichtigkeit wieder in ein dynamisches Gespräch, wobei sie hin und wieder laut lachen. Nach einer Weile sind die Haare der Kundin fertig, weshalb sie vom Stuhl aufsteht. Ihre Freundin macht es ihr nach. Sie umarmen Maria zum Abschied, ehe sie aus der Tür in den sonnigen Tag verschwinden. 
 
 Lächelnd schaut Maria wieder zu mir, wirkt durch ihre Körperhaltung stärker und selbstbewusster als zuvor. «Die Immigration hatte definitiv keine starken Auswirkungen auf meine Persönlichkeit.» Ein verstehendes Nicken von mir. «Ich bin zwar noch hier in der Schweiz», legt sie dar, «aber, mein Koffer ist noch mit mir und meinen Wurzeln in Brasilien.»
-
-{{<box>}}
-
-**Integration** 
-
-Während bei Integration die eigenkulturelle Identität weitgehend erhalten bleibt, wird sie bei Assimilation aufgegeben. Bei Integration streben Personen oder Gruppen nach Multikulturalität, bei der das eigene kulturelle Erbe in die Mehrheitsgesellschaft getragen wird. Dies erfordert natürlich auch eine Integrationsbereitschaft der dominanten Kultur, die einen wechselseitigen Austausch interkultureller Denk- und Verhaltensweisen ermöglicht. Berry (2005) unterscheidet drei Formen der Integration: aktive Akzeptanz der kulturellen Diversität in einer Gesellschaft, sozialstrukturelle Integration in das Beziehungsgeflecht einer Gesellschaft und sozialkulturelle Integration unter Rücksichtnahme auf kulturelle Unterschiede. 
-
-**Assimilation** 
-
-Bei Assimilation herrscht für Migranten ein höherer Anpassungsdruck an die Aufnahmekultur. Dies bringt eine Aufgabe oder Ablehnung der Eigenkultur mit sich. Durch die bewusste Übernahme von Sprache sowie Denk- und Verhaltensmustern des neuen kulturellen Systems wird die eigenkulturelle Identität nach und nach überlagert. Assimilation ist somit meist ein einseitiger Anpassungsprozess einer Minderheits- an die Mehrheitsgesellschaft. 
-
-**Segregation und Marginalisierung** 
-
-Herrscht hingegen eine ablehnende Haltung gegenüber der dominanten Kultur, liegt entweder Segregation oder Marginalisierung vor. Bei Segregation werden die eigenkulturellen Werte und Denkmuster bewusst erhalten ohne, dass Kontakt zur Mehrheitskultur hergestellt wird. Bei Marginalisierung werden bestehende kulturelle Identitäten aufgebrochen bei gleichzeitiger ablehnender Haltung zur Aufnahmekultur. Häufig ist damit ein Zustand kultureller Orientierungslosigkeit verbunden, der zu sozialer und lokaler Abgrenzung und Isolierung führt. Unter gewissen Bedingungen kann die Position der Marginalisierten allerdings auch konstruktiv eingesetzt werden. Gerade durch den Abstand zu kulturellen Referenzsystemen können situationsabhängige Realitäten entstehen und somit alte Normen hinterfragt und neue ethische Grundlagen geschaffen werden. So lässt sich das hohe Frustrationsniveau, das Marginalisierung meist für alle Beteiligten mit sich bringt, senken oder in neue Gestaltungsmöglichkeiten in Bezug auf Interkulturalität umwandeln
-
-{{</box>}}
