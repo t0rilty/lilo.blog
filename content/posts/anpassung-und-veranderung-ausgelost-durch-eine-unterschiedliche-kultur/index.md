@@ -6,7 +6,7 @@ pinned = false
 tags = ["reportage", "immigration"]
 image = "img_5505-copy-min-2.jpg"
 +++
-Immigrant*innen machen oft Bekanntschaft mit der* Assimilation*, ein kultureller Anpassungsprozess, bei dem sie sich an die neue Kultur anpassen, jedoch den Kontakt zu ihrer eigenen verlieren. Auch bekannt ist das Gegenteil, die* Separation*, wo Tradition bewahren wird und die neue Kultur zugunsten ihrer eigenen abgestossen wird. Maria Imhof, 52 und seit 13 Jahren wohnhaft in der Schweiz, ergeht es jedoch wieder anders, denn sie hat sich in die Schweizer Kultur* integriert*.
+Immigrant*innen machen oft Bekanntschaft mit der* Assimilation*, ein kultureller Anpassungsprozess, bei dem sie sich an die neue Kultur anpassen, jedoch den Kontakt zu ihrer eigenen verlieren. Auch bekannt ist das Gegenteil, die* Separation*, wo Tradition bewahrt und die neue Kultur zugunsten ihrer eigenen abgestossen wird. Maria Imhof, 52 Jahre alt und seit 13 Jahren wohnhaft in der Schweiz, ergeht es jedoch wieder anders, denn sie hat sich in die Schweizer Kultur* integriert*.
 
 Eine Reportage von **Victoria Araujo**, Bern
 
