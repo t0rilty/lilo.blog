@@ -42,4 +42,6 @@ Maria gibt zu, dass sie sich in gewisser Weise verändert hat, seit sie in de
 
 Die drei fallen mit Leichtigkeit wieder in ein dynamisches Gespräch, wobei sie hin und wieder laut lachen. Nach einer Weile sind die Haare der Kundin fertig, weshalb sie vom Stuhl aufsteht. Ihre Freundin macht es ihr nach. Sie umarmen Maria zum Abschied, ehe sie aus der Tür in den sonnigen Tag verschwinden. 
 
-Lächelnd schaut Maria wieder zu mir, wirkt durch ihre Körperhaltung stärker und selbstbewusster als zuvor. «Die Immigration hatte definitiv keine starken Auswirkungen auf meine Persönlichkeit.» Ein verstehendes Nicken von mir. «Ich bin zwar noch hier in der Schweiz», legt sie dar, «aber, mein Koffer ist noch mit mir und meinen Wurzeln in Brasilien.»
+Lächelnd schaut Maria wieder zu mir, wirkt durch ihre Körperhaltung stärker und selbstbewusster als zuvor. «Die Immigration hatte definitiv keine starken Auswirkungen auf meine Persönlichkeit.» Ein verstehendes Nicken von mir. 
+
+> Ich bin zwar noch hier in der Schweiz, aber mein Koffer ist noch mit mir und meinen Wurzeln in Brasilien.
