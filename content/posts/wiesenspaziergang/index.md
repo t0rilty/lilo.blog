@@ -1,7 +1,7 @@
 +++
 title = "Wiesenspaziergang"
 date = "2024-03-01"
-draft = true
+draft = false
 pinned = false
 tags = ["situationsbeschreibung", "einfachesätze", "satzfragmente", "satzverknüpfungen", "satzperioden"]
 image = "71e3ab569de9ffe3a0811fc095c23e14.jpg"
